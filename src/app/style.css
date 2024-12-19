@@ -1,0 +1,27 @@
+.navbar-link > a{
+    line-height: 100%; /* 21.333px */
+    list-style: none;
+    cursor: pointer;
+    position: relative;
+}
+.navbar-link > a::after {
+    content: "";
+    width: 0;
+    height: 3px;
+    background: #10B981;
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    transition: 0.5s;
+  }
+  
+  .navbar-link > a:hover::after {
+    width: 100%;
+  }
+
+  /* Heading styles */
+.text-h1 {
+    font-style: normal;
+    font-weight: 700;
+    line-height: 112.5%;
+}

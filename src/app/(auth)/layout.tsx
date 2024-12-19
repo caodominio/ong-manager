@@ -16,7 +16,7 @@ export default function Layout({ children }: Readonly<{ children: ReactNode }>) 
 
 			<div className="flex-1 flex flex-col items-center w-full lg:min-w-[550px] lg:max-w-[33%] overflow-y-auto gap-4 px-6 sm:px-12 py-16">
 				<Image
-					src={"/logo-caodominio-satuba.svg"}
+					src={"/landing-page/home/logo-caodominio-satuba.svg"}
 					width={200}
 					height={70}
 					alt="logo"

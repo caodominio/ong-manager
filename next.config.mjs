@@ -3,15 +3,7 @@ const nextConfig = {
   images: {
     domains: ['mir-s3-cdn-cf.behance.net'], 
   },
-  async redirects() {
-    return [
-      {
-        source: '/',
-        destination: '/login',
-        permanent: true,
-      },
-    ]
-  }, logging: {
+  logging: {
     fetches: {
       fullUrl: true,
     },
