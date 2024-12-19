@@ -92,7 +92,7 @@ const autoplayPlugin = Autoplay({
 })
 
 export function Partners() {
-	const [teamApi] = useEmblaCarousel({ loop: true, align: "start", slidesToScroll: 1 }, [
+	useEmblaCarousel({ loop: true, align: "start", slidesToScroll: 1 }, [
 		autoplayPlugin,
 	])
 
@@ -151,6 +151,7 @@ export function Partners() {
 
 				<div className="flex justify-center gap-16 py-6 mx-auto mt-12 flex-wrap">
 					{institutionalPartners.map(partner => (
+						// eslint-disable-next-line @next/next/no-img-element
 						<img key={partner.id} src={partner.image} alt={`Logo ${partner.name}`} />
 					))}
 				</div>
