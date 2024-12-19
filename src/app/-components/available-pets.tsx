@@ -21,7 +21,7 @@ const availablePets: Pet[] = [
 		name: "Nina",
 		description:
 			"Nina é uma gata de 3 anos, dócil e brincalhona. Com pelagem macia e olhos expressivos, ela adora se aconchegar no colo e receber carinho. Sua natureza curiosa a faz explorar cada cantinho da casa, mas sempre volta para perto de seus humanos favoritos. Já castrada e vacinada, está pronta para trazer alegria ao seu lar.",
-		photo: "/landing-page/adopt-puppies/nina.png",
+		photo: "/landing-page/adopt-puppies/Nina.png",
 		tags: ["Gato", "Castrada", "Fêmea"],
 	},
 	{
@@ -29,7 +29,7 @@ const availablePets: Pet[] = [
 		name: "MisterKat",
 		description:
 			"MisterKat é um gato elegante de 4 anos que conquistou a todos com seu charme único. Calmo e independente, ele aprecia momentos tranquilos e tem uma personalidade marcante. Adora brincar com bolinhas e se esticar ao sol. Completamente vacinado e castrado, busca um lar que aprecie sua natureza distinta.",
-		photo: "/landing-page/adopt-puppies/misterKat.png",
+		photo: "/landing-page/adopt-puppies/MisterKat.png",
 		tags: ["Gato", "Castrado", "Macho"],
 	},
 	{
@@ -37,7 +37,7 @@ const availablePets: Pet[] = [
 		name: "Alfredo",
 		description:
 			"Alfredo é um cachorro de porte médio com 2 anos de idade. Extremamente carinhoso e sociável, ele se dá bem com outros animais e crianças. Sua energia contagiante e lealdade fazem dele um companheiro perfeito para famílias ativas. Castrado e com todas as vacinas em dia, está ansioso para encontrar seu lar definitivo. Alfredo é um cachorro de porte médio com 2 anos de idade. Extremamente carinhoso e sociável, ele se dá bem com outros animais e crianças. Sua energia contagiante e lealdade fazem dele um companheiro perfeito para famílias ativas. Castrado e com todas as vacinas em dia, está ansioso para encontrar seu lar definitivo.",
-		photo: "/landing-page/adopt-puppies/alfredo.png",
+		photo: "/landing-page/adopt-puppies/Alfredo.png",
 		tags: ["Cachorro", "Castrado", "Macho"],
 	},
 	{
@@ -45,7 +45,7 @@ const availablePets: Pet[] = [
 		name: "Thor",
 		description:
 			"Thor é um cachorro forte e gentil de 3 anos. Com sua personalidade brincalhona e protetora, ele é o companheiro ideal para aventuras ao ar livre. Apesar do seu porte imponente, é extremamente dócil e carinhoso com todos. Treinado, castrado e vacinado, está pronto para ser parte de uma família amorosa.",
-		photo: "/landing-page/adopt-puppies/thor.png",
+		photo: "/landing-page/adopt-puppies/Thor.png",
 		tags: ["Cachorro", "Castrado", "Macho"],
 	},
 	{
@@ -53,7 +53,7 @@ const availablePets: Pet[] = [
 		name: "Valentina",
 		description:
 			"Valentina é uma cachorra meiga de 1 ano e meio que conquista a todos com seu olhar doce. Muito esperta e afetuosa, ela adora aprender truques novos e brincar com seus brinquedos favoritos. Sua energia positiva contagia o ambiente. Já castrada e com todas as vacinas em dia, está pronta para encontrar uma família para chamar de sua.",
-		photo: "/landing-page/adopt-puppies/valentina.png",
+		photo: "/landing-page/adopt-puppies/Valentina.png",
 		tags: ["Cachorro", "Castrada", "Fêmea"],
 	},
 ]
